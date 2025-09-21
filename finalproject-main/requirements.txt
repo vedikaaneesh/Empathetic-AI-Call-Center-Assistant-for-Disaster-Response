@@ -1,0 +1,11 @@
+hume
+python-dotenv
+groq
+requests
+Pillow
+PyQt5
+PyQtWebEngine
+PyQtChart
+hume[microphone]
+python-dotenv
+

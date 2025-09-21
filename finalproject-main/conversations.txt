@@ -1,0 +1,17 @@
+<CHAT_METADATA> Chat ID: 1f7646a6-6988-4c0e-b3ee-a630eb663215, Chat Group ID: 9dc0498d-5153-4a44-a7e7-7ddd067133ff
+EVI: Hello. Please state your Emergency!
+<USER_INTERRUPTION>
+<ASSISTANT_END>
+<ASSISTANT_END>
+You: My name is Vaishak.
+You: I'm calling from Kannur in Kerala.
+<ASSISTANT_END>
+You: My house is on fire. Please help me.
+EVI: Kannur, Kerala? What is the address where the house is on fire?
+<ASSISTANT_END>
+You: Sherakal in Kanno.
+EVI: Calm down. What is your emergency?
+<ASSISTANT_END>
+You: My house is on fire.
+EVI: What exactly happened?
+<ASSISTANT_END>
